@@ -17,7 +17,7 @@ In this exercise, the object was to create a graph depicting a dense airport net
 
 ## 3. Credit Card Payments Hashing Problem
 
-In this exercise, the object was to create 1 million card payments, insert them into a hash table and answer the following questions:
+In this exercise, the object was to create 1 million card payments, insert them into a hash table and answer the following questions. The starting size of the table must be around 1000 and it should get larger as entries are registered.
 <ol type="A">
   <li>Find the card with the largest sum of money spent.</li>
   <li>Find the card with the most payments.</li>
