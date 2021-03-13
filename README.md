@@ -12,7 +12,7 @@ In this exercise, the object was to create a graph depicting a dense airport net
 <ol type="A">
   <li>Find if every aiport is accessible to every other airport in two or less hops.</li>
   <li>Find round trips subject to some restrictions. These restrictions are presented inside the source code file.</li>
-  <li>Find the shortest and the longest round trips for different number of hops.</li>
+  <li>Find the shortest and the longest round trips for every different number of hops.</li>
 </ol>
 
 ## 3. Credit Card Payments Hashing Problem
